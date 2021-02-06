@@ -29,6 +29,9 @@ hr{
       font-family: cursive;
       color: wheat;
   }
+h3{
+   color: wheat;
+}
 .wrapper{
     color: peachpuff;
     min-height: 20em;
